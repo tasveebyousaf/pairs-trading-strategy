@@ -1,6 +1,6 @@
 # 📊 pairs-trading-strategy
 
-A beginner-to-intermediate quantitative trading strategy built in Python that exploits the **statistical relationship between two correlated stocks** — MSFT and AMZN. The strategy monitors the log-price spread between the pair, computes a rolling z-score, and enters long/short positions when the spread deviates significantly from its historical mean, betting on mean reversion. A full backtest engine simulates realistic P&L with commission costs, and four charts cover normalised prices, z-score signals, rolling correlation, and portfolio performance vs benchmark. This project demonstrates core quant concepts: cointegration intuition, z-score signal generation, market-neutral positioning, and statistical risk metrics.
+A quantitative trading strategy built in Python that exploits the **statistical relationship between two correlated stocks** — MSFT and AMZN. The strategy monitors the log-price spread between the pair, computes a rolling z-score, and enters long/short positions when the spread deviates significantly from its historical mean, betting on mean reversion. A full backtest engine simulates realistic P&L with commission costs, and four charts cover normalised prices, z-score signals, rolling correlation, and portfolio performance vs benchmark. This project demonstrates core quant concepts: cointegration intuition, z-score signal generation, market-neutral positioning, and statistical risk metrics.
 
 ---
 
