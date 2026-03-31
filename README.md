@@ -64,7 +64,12 @@ The script prints a performance summary and saves `pairs_trading_results.png` wi
 - **Z-Score** — spread deviation with entry/exit bands and shaded active positions
 - **Rolling correlation** — 30-day window showing how closely the pair moves together
 - **Portfolio vs benchmark** — strategy P&L indexed against MSFT buy-and-hold
+- 
+## Results
 
+Here’s an example of the Pairs Trading analysis:
+
+![Pairs Trading Spread](pairs_trading_results.png)
 ---
 
 ## Key Limitations
